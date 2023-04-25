@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MustafaRady20
-- 👀 currently I’m looking for an internship as a data analyst
+- 👀 currently I'm looking for an internship as a data analyst
 - 💞️ I'm a student at Faculty of Computer Sciences at Fayoum University
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning React and Python&Django
