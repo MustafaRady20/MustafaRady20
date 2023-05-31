@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mustafa Rady Mizar
 - 👀 I'm looking for an internship or full-time opportunity as a data analyst
 - 💞️ I'm a student at the Faculty of Computer Sciences at Fayoum University
-- 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently learning React and Node.js
+- 👀 I’m interested in Full Stack Web Development and Data Science
+- 🌱 I’m currently learning React.js and Node.js
 
 - 📫 How to reach me 
 - Gmail: mostafarady515@gmail.com
