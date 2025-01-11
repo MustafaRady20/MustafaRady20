@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mustafa Rady Mizar
-- 👀 I'm looking for an internship or full-time opportunity as a Full Stack Developer (Golang | Nodejs) (Reactjs | Nextjs)
-- 💞️ I'm a student at the Faculty of Computer Sciences 
-- 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently practicing on (Golang | Nodejs) (Reactjs | Nextjs)
+- 👀 I'm a  Full Stack Developer (Nest.js | Node.js) (React.js | Next.js)
+- 💞️ I graduated from the Faculty of Computers & Artificial Intelligence 
+- 👀 I’m interested in  Web Development 
+- 🌱 I’m currently Working as a Full Stack developer at LevelUp ESG Company
 
 - 📫 How to reach me 
 - Gmail: mostafarady515@gmail.com
